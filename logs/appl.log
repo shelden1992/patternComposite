@@ -1,0 +1,94 @@
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+INFO main org.courses.Main - 24.0
+DEBUG main org.courses.calculate.Calculation - Calculation str (1+2)*4+5*(3+6)
+DEBUG main org.courses.parsing.EvaluateString - All tokens [(, 1, +, 2, ), *, 4, +, 5, *, (, 3, +, 6, )]
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 1
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 2
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 4
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 5
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 6
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 9
+DEBUG main org.courses.parsing.EvaluateString - Final values = 45
+DEBUG main org.courses.parsing.EvaluateString - Final values = 57
+DEBUG main org.courses.calculate.Calculation - Calculation str (1+2)*4+5*(3+6)
+DEBUG main org.courses.parsing.EvaluateString - All tokens [(, 1, +, 2, ), *, 4, +, 5, *, (, 3, +, 6, )]
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 1
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 2
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 4
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 5
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 6
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 9
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks 5 operation * values out hooks 9
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks 12 operation + values out hooks 45
+DEBUG main org.courses.calculate.Calculation - Calculation str (1+2)*4+5*(3+6)
+DEBUG main org.courses.parsing.EvaluateString - All tokens [(, 1, +, 2, ), *, 4, +, 5, *, (, 3, +, 6, )]
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 1
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 2
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 4
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 5
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 6
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 9
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks 9 operation "*" values out hooks 5
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks 45 operation "+" values out hooks 12
+DEBUG main org.courses.calculate.Calculation - Calculation str (1+2)*4+5*(3+6)
+DEBUG main org.courses.parsing.EvaluateString - All tokens [(, 1, +, 2, ), *, 4, +, 5, *, (, 3, +, 6, )]
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 1
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 2
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 4
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 5
+DEBUG main org.courses.parsing.EvaluateString - Open hooks in position (
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 3
+DEBUG main org.courses.parsing.EvaluateString - Operation to int 6
+DEBUG main org.courses.parsing.EvaluateString - Close hooks in position )
+DEBUG main org.courses.parsing.EvaluateString - Values into hooks = 9
+DEBUG main org.courses.parsing.EvaluateString - Values left 9 operation "*" values right 5
+DEBUG main org.courses.parsing.EvaluateString - Values left 45 operation "+" values right 12
